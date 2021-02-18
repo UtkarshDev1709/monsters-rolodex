@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UtkarshDev1709.github.io/monsters-rolodex/static/css/main.d71cfca0.chunk.css",
+    "main.js": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/main.9e0cd170.chunk.js",
+    "main.js.map": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/main.9e0cd170.chunk.js.map",
+    "runtime-main.js": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/runtime-main.98f32cea.js",
+    "runtime-main.js.map": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/runtime-main.98f32cea.js.map",
+    "static/js/2.7869c220.chunk.js": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/2.7869c220.chunk.js",
+    "static/js/2.7869c220.chunk.js.map": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/2.7869c220.chunk.js.map",
+    "static/js/3.270e867b.chunk.js": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/3.270e867b.chunk.js",
+    "static/js/3.270e867b.chunk.js.map": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/3.270e867b.chunk.js.map",
+    "index.html": "/UtkarshDev1709.github.io/monsters-rolodex/index.html",
+    "static/css/main.d71cfca0.chunk.css.map": "/UtkarshDev1709.github.io/monsters-rolodex/static/css/main.d71cfca0.chunk.css.map",
+    "static/js/2.7869c220.chunk.js.LICENSE.txt": "/UtkarshDev1709.github.io/monsters-rolodex/static/js/2.7869c220.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f32cea.js",
+    "static/js/2.7869c220.chunk.js",
+    "static/css/main.d71cfca0.chunk.css",
+    "static/js/main.9e0cd170.chunk.js"
+  ]
+}
